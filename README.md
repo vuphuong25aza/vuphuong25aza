@@ -17,10 +17,16 @@ I'm especially interested in **software development**, **web technologies**, and
 
 ## Projects
 
-### News Website
-A news website interface created as part of my web development practice. I'm reviewing the code and preparing it for publication here.
+### PULSE — News Website
 
-**Repository:** Coming soon.
+A responsive news website frontend built with HTML, CSS, and JavaScript. It includes article categories, search and filtering, reading preferences, bookmarks, and light/dark mode.
+
+The project was developed with AI assistance as part of my hands-on web development practice. I'm studying, testing, and improving its implementation.
+
+- **Live Demo:** [Open PULSE News](https://vuphuong25aza.github.io/pulse-news/)
+- **Source Code:** [github.com/vuphuong25aza/pulse-news](https://github.com/vuphuong25aza/pulse-news)
+
+*This is a frontend demonstration, not a live news service.*
 
 ## Courses & Certificates
 
