@@ -24,10 +24,22 @@ A news website interface created as part of my web development practice. I'm rev
 
 ## Courses & Certificates
 
-- Coursera — Computer Networking (completed)
-- Coursera — Web Programming (completed)
+I have completed online coursework in **Computer Networking** and **Web Programming** on Coursera. I am collecting the exact course titles and issuing institutions to document each credential accurately.
 
-*Verification links and exact course titles will be added.*
+<details>
+<summary><strong>View my Coursera credential links (7)</strong></summary>
+
+1. [Coursera credential 1](https://coursera.org/share/3099af12c61f2f0fccc32db22047d2e6)
+2. [Coursera credential 2](https://coursera.org/share/d0425121406fe47a20e03c39b84956b1)
+3. [Coursera credential 3](https://coursera.org/share/2c4bd7865e7eefcb1c6136a5de6ed722)
+4. [Coursera credential 4](https://coursera.org/share/3b5a965f0d79c751220e0a6962472531)
+5. [Coursera credential 5](https://www.coursera.org/account/accomplishments/verify/VQ8E8LQ9CHYR)
+6. [Coursera credential 6](https://www.coursera.org/account/accomplishments/verify/68AJDSEFPMVZ)
+7. [Coursera credential 7](https://coursera.org/share/dcf326c632ab5e7add7a304f5ecca77d)
+
+</details>
+
+*Course names, credential types, and certificate images will be added after checking the original certificates.*
 
 ## Current Goals
 
